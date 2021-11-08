@@ -1,0 +1,17 @@
+#intro_page_title{
+    color: #8c1d40;
+}
+
+.card{
+    width: 40%;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+}
+
+.project-image{
+    border-radius: 5px 5px 0 0;
+    object-fit: cover;
+    height: 200px;
+    width: 100%;
+}
